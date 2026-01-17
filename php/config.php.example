@@ -1,0 +1,11 @@
+<?php
+// Copy this file to php/config.php and set real values. DO NOT commit php/config.php to your repo.
+// Example values below are placeholders.
+
+define('DB_USER', 'fooduser');
+define('DB_PASS', 'change_me');
+define('DB_CONN', 'localhost/XEPDB1');
+define('SITE_URL', 'http://localhost/FOOD');
+
+// To use environment variables instead, leave this file unset and set DB_USER/DB_PASS/DB_CONN in your environment (.env or server config).
+?>

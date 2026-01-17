@@ -1,0 +1,10 @@
+/php/config.php
+/.env
+/.env.local
+/node_modules/
+/vendor/
+.DS_Store
+*.log
+# Ignore editor/project-specific files
+.vscode/
+thumbs.db
