@@ -39,4 +39,8 @@ A full-stack web application for online food ordering and management. This proje
 - 🛡️ Admin panel
 - 📱 Responsive design
 
-![1](https://github.com/user-attachments/assets/187c3a2c-c766-4c47-8771-731c6bf102fa)
+![1](https://github.com/user-attachments/assets/8931fcde-0a7a-4a14-9a2e-a6b94b774572)
+
+![16](https://github.com/user-attachments/assets/0a190fd5-e81c-4064-82f7-4711e474d852)
+
+
